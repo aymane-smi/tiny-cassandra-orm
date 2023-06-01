@@ -18,4 +18,4 @@
 
 ![test](test.png)
 
-## i'm bit lazy i let chatGPT to write this documentation ;) ##
+## i'm bit lazy i let chatGPT write this documentation ;) ##
