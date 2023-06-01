@@ -14,4 +14,8 @@
 | updateWith  | Updates a record in the table based on given condition. | `await orm.updateWith({ id: 1 }, { name: 'John Doe' });`                                                 |
 | close       | Closes the connection to the Cassandra cluster.         | `await orm.close();`                                                                                      |
 
+## testing coverage
+
+![test](test.png)
+
 ## i'm bit lazy i let chatGPT to write this documentation ;) ##
